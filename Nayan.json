@@ -9,14 +9,14 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "BOTNAME": "𝐍𝐄𝐙𝐔𝐊𝐎-𝐗-𝐁𝐁𝐘",
+  "PREFIX": "!",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100082890325955",
+    "61550890236946"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "61550890236946",
     ""
   ],
   "OWNER": ["100000959749712"], 
